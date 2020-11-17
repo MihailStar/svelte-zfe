@@ -1,0 +1,6 @@
+{
+  "htmlWhitespaceSensitivity": "ignore",
+  "singleQuote": true,
+  "svelteBracketNewLine": true,
+  "svelteStrictMode": true
+}
